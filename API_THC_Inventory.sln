@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_THC_Inventory", "API_THC_Inventory\API_THC_Inventory.csproj", "{7E3D3DC7-8488-4EB5-87A0-68AD55CF90AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E3D3DC7-8488-4EB5-87A0-68AD55CF90AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E3D3DC7-8488-4EB5-87A0-68AD55CF90AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E3D3DC7-8488-4EB5-87A0-68AD55CF90AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E3D3DC7-8488-4EB5-87A0-68AD55CF90AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A39085A-6A97-486B-8B46-D608AC6B04DE}
+	EndGlobalSection
+EndGlobal
